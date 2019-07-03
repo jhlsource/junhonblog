@@ -2,8 +2,10 @@
 
 body{ 
     background-color: papayawhip;
-    background-image: href="peachGolden.png";
+    background-image: url("");
     border: 1px solid rgb(51, 63, 72);
+    background-origin: padding-box;
+    fill-opacity: 3;
     box-shadow: 4px 4px #618f85;
     color: olive;
     font-family: 'Josefin Sans', serif;
